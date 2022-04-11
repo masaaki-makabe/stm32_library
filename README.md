@@ -13,9 +13,9 @@
 
 ## ソース取得方法
 - git
-	- gitクライアント環境があればCloneで取得できます。アドレスは本サイト 'Code -> HTTPS' を参照ください。
+	- gitクライアント環境があればCloneで取得できます。アドレスは本サイト `Code -> HTTPS` を参照ください。
 - zip
-	- 本サイト 'Code -> Download ZIP' で取得します。
+	- 本サイト `Code -> Download ZIP` で取得します。
 
 ## ファイル構成
 
