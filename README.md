@@ -6,6 +6,8 @@
 	- https://guides.github.com/features/mastering-markdown/
 	- https://qiita.com/tbpgr/items/989c6badefff69377da7
 
+現在はパブリック公開としています。プライベートに変更した場合、特定の人のみアクセス可能となります。
+
 ## 必要なもの（開発者向け）
 - git知識及びクライアント環境
 	- まずgit。マスター、ブランチ、Clone、Commit、Push、Pull等
@@ -20,7 +22,7 @@
 ## ファイル構成
 
 ```
-TOP
+ROOT
 ├ README.md  本ドキュメント
 ├ Sensor
 │　├ Pressure  圧力センサ
