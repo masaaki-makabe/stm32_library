@@ -13,6 +13,7 @@
 ## 困った時に
 - Pushできません。どうしましょう。
 	- https://qiita.com/mokio/items/f6c67c8f9af050383fc0
+	- https://docs.github.com/ja/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 - その他
 
