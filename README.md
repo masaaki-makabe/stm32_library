@@ -6,7 +6,7 @@
 	- https://guides.github.com/features/mastering-markdown/
 	- https://qiita.com/tbpgr/items/989c6badefff69377da7
 
-現在はパブリック公開としています。プライベートに変更した場合、特定の人のみアクセス可能となります。
+現在プライベート公開です。
 
 ## 必要なもの（開発者向け）
 - git知識及びクライアント環境
@@ -30,7 +30,7 @@ ROOT
 │　├ Pressure        圧力センサ
 │　├ Temp            温度センサ
 │　├  :              
-│　├ EEPROM          EEPROMデバイスを使ったライブラリ
+│　├ EEPROM          EEPROMデバイス
 │　└                 
 ├ mbed                mbed to STM32-HAL
 ├ arduino             arduino to STM32-HAL
